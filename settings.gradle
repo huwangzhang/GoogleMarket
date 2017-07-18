@@ -1,0 +1,2 @@
+include ':app', ':googlePlayTeach', ':xUtilsLibrary', ':actionbardemo', ':menudemo'
+include ':webServer'

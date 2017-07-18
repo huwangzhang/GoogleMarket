@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleMarket.iml" filepath="$PROJECT_DIR$/GoogleMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbardemo/actionbardemo.iml" filepath="$PROJECT_DIR$/actionbardemo/actionbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlePlayTeach/googlePlayTeach.iml" filepath="$PROJECT_DIR$/googlePlayTeach/googlePlayTeach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menudemo/menudemo.iml" filepath="$PROJECT_DIR$/menudemo/menudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webServer/webServer.iml" filepath="$PROJECT_DIR$/webServer/webServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtilsLibrary/xUtilsLibrary.iml" filepath="$PROJECT_DIR$/xUtilsLibrary/xUtilsLibrary.iml" />
+    </modules>
+  </component>
+</project>
